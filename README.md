@@ -1,3 +1,3 @@
 # INF-150
-Nome: Olavo Alves Barros Silva;\n
+Nome: Olavo Alves Barros Silva;
 Matrícula: 102014
